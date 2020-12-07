@@ -1,0 +1,1627 @@
+@media only screen and (max-width: 1920px) {
+    
+
+    
+    .character.character_2 img {
+        width: 480px;
+    }
+    /* .character.character_2 {
+        bottom: 100px !important;
+        left: 80px;
+    } */
+    .character.character_4 img {
+        width: 290px;
+    }
+    /* .character.character_4 {
+        bottom: 0px;
+    } */
+  
+
+    .inner_background {
+        padding: 10px 12px;
+    }
+    .inner_background.big_bean {
+        position: relative;
+        top: -6px;
+    }
+    .close.continie_btn {
+        right: 36px;
+    }
+    .close.delete_close.big_btn {
+        right: 32px !important;
+    }
+    .big_bean {
+        padding: 15px 15px;
+    }
+}
+
+
+@media only screen and (max-width: 1600px) {
+   
+    .character img {
+        width: 419px;
+    }
+}
+
+@media only screen and (max-width: 1440px) {
+    .char-wrappers.char-single-right.single_c.hide_c {
+    left: 98px;
+}
+   
+    .sec_screen_bg {
+        top: -5px;
+        position: relative;
+    }
+    
+    .character img {
+        width: 300px;
+    }
+    /* .character.character_2 {
+        bottom: 71px !important;
+        left: 80px;
+    } */
+    .character {
+        left: 150px;
+    }
+    .character.character_2 img {
+        width: 330px;
+    }
+    /* .character.character_3 {
+        bottom: 65px !important;
+        left: 100px;
+    } */
+
+    .character.character_3 {
+        bottom: 58px !important;
+        left: 20px;
+    }
+    .character.character_4 img {
+        width: 290px;
+    }
+   
+    
+    
+    .close.delete_close {
+        right: 54px !important;
+    }
+   
+   
+    .inner_background {
+        height: 100%;
+        padding: 10px 12px;
+    }
+}
+@media only screen and (max-width: 1366px) {
+   
+    .character img {
+        width: 300px;
+    }
+    /* .character.character_2 {
+        bottom: 60px;
+        left: 60px;
+    } */
+}
+
+@media only screen and (max-width: 1280px) {
+    .inner_section {
+     padding-bottom:0px; 
+    }
+    .player-msg-text-box h2 {
+        font-size: 18px;
+    }
+   
+    .close.cong_close {
+        right: 70px !important;
+    }
+    .bg_player {
+        max-width: 480px;
+    }
+    .close {
+        right: 72px;
+        top: -25px;
+    }
+    .character img {
+        width: 291px;
+    }
+  
+    .character.character_2 img {
+        width: 410px;
+    }
+    .character {
+        bottom: 0;
+        left: 40px;
+    }
+    /* .character.character_2 {
+        bottom: 89px;
+        left: 60px;
+    } */
+    /* .character.character_3 {
+        bottom: 66px !important;
+        left: 20px;
+    } */
+    .character.character_3 img {
+        width: 380px;
+    }
+  
+    .text_explain {
+        padding: 9px;
+    }
+    .inner_background {
+        height: 100%;
+        padding: 10px 15px;
+    }
+    .back_img {
+        background-size: 100% 100%;
+        padding: 41px 0;
+    }
+    .sec_screen_bg {
+        height: 100%;
+        top: -7px;
+        position: relative;
+    }
+    
+    .close.delete_close {
+        right: 60px !important;
+    }
+    .big_bean {
+        position: relative;
+        top: -5px;
+    }
+   
+   
+}
+@media screen and (max-width: 768px) , screen and (max-height: 1024px) {
+    .start-wrapper.player-list {
+        height: 100vh;
+    }
+}
+
+@media screen and (max-width: 1280px) , screen and (max-height: 620px) {
+    .start-card-wrapper-big.bg_player {
+        margin-top: 50px;
+    }
+}
+
+@media screen and (max-width: 1280px) , screen and (max-height: 640px) {
+    .start-wrapper.player-list {
+        height: 120vh;
+        padding: 50px 0px !important;
+    }
+   
+       .hanging-wooden img {
+        width: 238px;
+    }
+        .hanging-wooden {
+        top: -19px;
+    }
+    
+    /* .character.character_3 {
+        bottom: 57px !important;
+    }
+   
+    .character.character_4 {
+        height: 172px !important;
+    } */
+
+  }
+
+@media only screen and (min-width: 1200px) and (max-width: 1400px) {
+  
+    .hanging-wooden img {
+        max-height: 250px;
+    }
+    .start-card-wrapper.popup_height.levae_game_bg {
+        padding: 78px;
+    }
+    
+    .start-card-wrapper ul li {
+        margin-bottom: 15px;
+    }
+    .char-wrappers ul li img {
+        height: 200px;
+    }
+    .char-wrappers ul li {
+        margin: 0px 60px;
+    }
+   
+    .next-btn-space {
+        margin-top: 20px !important;
+    }
+    
+    .next-btn-space.play {
+        margin-top: 0 !important;
+    }
+   
+    /* .character.character_4 {
+        left: 50px;
+        bottom: 100px !important;
+    } */
+    
+}
+
+@media only screen and (max-width: 1140px) {
+   
+   
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1100px) {
+    .char-wrappers {
+        margin-top: 125px;
+    }
+    .text-red {
+        color: red;
+        position: relative;
+        top: 20px;
+        left: -10px;
+    }
+
+    .player-msg-text-box h2 {
+        font-size: 18px;
+    }
+}
+
+@media only screen and (max-width: 1024px) {
+ 
+    .char-wrappers.char-single-right.single_c.hide_c {
+    left: 0;
+}
+    .benas_name_bg {
+        padding: 80px 80px 140px 80px;
+    }
+   
+    .character img {
+        width: 330px;
+    }
+    /* .character.character_2 img {
+        width: 100%;
+    } */
+    /* .character.character_2 {
+        bottom: 18px !important;
+        left: 80px;
+    } */
+    /* .character.character_3 {
+        bottom: -12px !important;
+        left: 50px;
+    } */
+
+    /* .character.character_4 {
+        height: 350px !important;
+    } */
+    
+    .sec_screen_bg {
+        height: 100%;
+        width: 264px;
+        padding: 15px 14px;
+    }
+   
+    .close.cong_close {
+        right: 60px;
+    }
+    
+    .side_line {
+        background-size: 151px 42px;
+        width: 173px;
+    }
+    
+    .player {
+        margin: 0;
+        padding: 22px 10px;
+    }
+    .player_list.ml-5 {
+        margin-left: 0 !important;
+    }
+    .text_explain {
+        margin: 0px 0px 11px 0px;
+    }
+}
+
+@media only screen and (max-width: 834px) {
+   /* .card-close-icon {
+        right: 25%;
+    }*/
+    .char-wrappers.char-single-right.single_c{
+        left: -21px;
+    }
+    .player {
+        padding: 43px 8px;
+        margin-bottom: 15px;
+        background-position: center;
+        background-size: 100% 100%;
+        width:auto;
+    }
+   
+    .close.delete_close {
+        right: 32px !important;
+    }
+    .inner_background {
+        height: 100% !important;
+    }
+    .back_img {
+        padding: 53px 0;
+    }
+    .char-wrappers ul li {
+        display: inline-block;
+        margin: 0px 10px;
+        position: relative;
+    }
+    .big_bean {
+        width: 265px;
+        padding: 10px;
+        height: 100%;
+    }
+   
+   
+  
+}
+
+@media only screen and (min-width: 768px) and (max-width: 992px) {
+    
+  
+    .close {
+        right: 62px;
+    }
+    .player-msg-text-box h2 {
+        font-size: 18px;
+    }
+}
+
+@media only screen and (max-width: 800px) {
+    .player_text.btn_down_ab {
+        bottom: 51px;
+    }
+ 
+  
+}
+
+@media only screen and (max-width: 992px) {
+    
+    .character img {
+        width: 330px;
+    }
+   
+    .player_list.ml-4 {
+        margin-left: 0 !important
+    }
+   
+   
+   
+}
+
+@media only screen and (max-width: 991px) {
+    /*06-Nov-2020 css starts here*/
+    .name_bg.lose_btn {
+        width: 70%;
+        background-size: 100% 100%;
+        margin-bottom: 10px;
+    }
+    .name_bg.winner_btn {
+        width: 70%;
+        background-size: 100% 100%;
+    }
+    .name_bg {
+        width: 70%;
+    }
+    .benas_name_bg {
+        padding: 80px 65px 50px 65px !important;
+    }
+    .benas_name_bg .besns_point h4 {
+        font-size: 26px;
+    }
+    .back_img {
+        max-width: 400px;
+        margin: 0 auto;
+    }
+    .action_background .inner_section .col-lg-5 {
+        text-align: center;
+    }
+    .player {
+        display: inline-block;
+        margin: 0 auto 15px auto !important;
+        padding: 20px 10px;
+        width: 100%;
+        max-width: 400px;
+    }
+    
+
+    /*06-Nov-2020 css starts here*/
+
+    .player_list {
+        display: none;
+    }
+    .slider {
+        display: block;
+    }
+    .main_number {
+        display: block;
+    }
+    .main_number {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 0px 0px 6px 0;
+    }
+    .media_number h3 {
+        font-size: 51px;
+    }
+    .player_list.ml-4 {
+        display: none;
+    }
+    .character {
+        display: none;
+    }
+    .main_stand {
+        display: block;
+        display: flex;
+        justify-content: center;
+    }
+    .owl-carousel.owl-theme.mb_slider {
+        display: flex;
+    }
+    .owl-carousel {
+        display: block;
+    }
+    .side_line {
+        margin-bottom: 0px;
+    }
+    .mob_stand {
+        position: relative;
+        top: 20px;
+    }
+   
+    .slider {
+        background-color: #D6F3F8;
+        padding: 20px 20px 10PX 20PX;
+        background: #D6F3F8;
+        box-shadow: 0 2px 4px 0 rgba(150, 150, 150, 0.26);
+        border-radius: 14px;
+        position: relative;
+    }
+    .owl-prev span {
+        font-size: 204px;
+        position: absolute;
+        left: 0;
+        top: -125px;
+        bottom: 0;
+        left: -20px;
+        color: #fff;
+    }
+    .owl-next span {
+        font-size: 204px;
+        position: absolute;
+        color: #fff;
+        top: -125px;
+        right: -20px;
+    }
+    .mob_btn {
+        background: url(../img/mob_btn.png);
+        background-repeat: no-repeat;
+        background-size: 250px 60px;
+        text-align: center;
+        width: 320px;
+        position: absolute;
+        height: 57px;
+        top: 6px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .text-white.player_name {
+        font-size: 18px;
+        margin-bottom: 0px;
+    }
+    .mob_btn_side {
+        background: url(../img/ground.png);
+        background-repeat: no-repeat;
+        background-size: 66px 66px;
+        height: 80px;
+        width: 80px;
+        position: relative;
+    }
+    .text-white.text-center {
+        font-size: 36px;
+        padding-top: 12px;
+        left: -7px;
+        position: relative;
+    }
+    .check {
+        margin-left: 40px;
+        height: auto;
+    }
+    .mob_chater img {
+        width: 200px;
+    }
+    /* .mob_stand img {
+        width: 100%;
+    } */
+    .media_number {
+        background: url(../img/ground.png);
+        background-repeat: no-repeat;
+        width: 61px;
+        text-align: center;
+        background-size: cover;
+        height: 60px;
+    }
+    .slider {
+        display: block;
+    }
+    .beans_text {
+        color: #ffc569 !important;
+        text-transform: uppercase;
+    }
+    .owl-prev span {
+        top: -136px;
+    }
+    .owl-next span {
+        top: -136px;
+    }
+}
+
+@media only screen and (max-width: 479px) {
+    .benas_name_bg .besns_point h4 {
+        font-size: 16px;
+    }
+    .benas_name_bg .besns_point img {
+        width: 12px;
+        margin-left: 5px;
+    }
+    .benas_name_bg {
+        padding: 60px 25px 50px 25px !important;
+    }
+    .benas_name_bg .name_bg h3 {
+        font-size: 14px;
+    }
+    .benas_name_bg .play_name.text-center.space_bottom {
+        width: auto;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .close.intro_btn {
+        top: -13px;
+    }
+    .start-card-wrapper-big {
+        padding: 80px 80px;
+    }
+    .main_number {
+        padding: 0;
+    }
+    .player_text.btn_down_ab {
+        bottom: 56px;
+    }
+    
+    .char-wrappers.char-single-right {
+        left: 0px !important;
+    }
+    .start-card-wrapper-big {
+        float: none;
+    }
+    .char-wrappers ul li img {
+        height: 150px;
+    }
+    .close.delete_close.big_btn {
+        right: 24px;
+    }
+    .d-flex.intro_pd {
+        padding: 13px 38px;
+    }
+    .sec_text_intro {
+        font-size: 14px;
+    }
+    .ACTION {
+        font-size: 16px;
+    }
+    .close.delete_close {
+        right: 34px !important;
+    }
+    .sec_screen {
+        font-size: 20px;
+        line-height: 14px;
+        padding: 0px 7px;
+        width: 350px;
+    }
+    .sec_screen {
+        font-size: 20px;
+        line-height: 14px;
+        padding: 0px 7px;
+        width: 350px;
+    }
+    .sec_screen_bg {
+        width: 264px;
+        padding: 15px 15px;
+        margin: 6px auto;
+    }
+    .back_img {
+        padding: 43px 0;
+    }
+    .action_background {
+        background: url(../img/mob_bg.png);
+        width: 100%;
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        padding-top: 30px;
+        padding-bottom: 30px;
+        height: 100%
+    }
+    .media_number {
+        width: 60px;
+        background-size: 60px;
+        height: 74px;
+    }
+    .media_number h3 {
+        font-size: 48px;
+        margin-bottom: 0 !important;
+    }
+    .inner_section {
+        padding-top: 15px;
+    }
+    .char-wrappers ul li {
+        margin: 0px 0px;
+    }
+    .close.delete_close {
+        right: 56px !important;
+    }
+    
+    .start-card-wrapper.roll {
+        padding: 75px;
+    }
+}
+@media only screen and (max-width: 479px) {
+
+    .start-card-wrapper.popup_height {
+        height: 100%;
+        position: relative;
+        height: 320px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: 0 auto;
+        padding: 0 !important;
+        width: 100%;
+    }
+
+    .close.delete_close.ELIMINATED {
+        right: 6px !important;
+    }
+    .gift.delete_btn img {
+        width: 100px;
+        margin: 0 auto;
+    }
+
+}
+
+@media only screen and (max-width: 349px) {
+
+    .close.delete_close.ELIMINATED {
+        right: -13px !important;
+    }
+
+}
+
+@media only screen and (max-width: 350px) {
+    .side_in {
+        top: 4px;
+        background-size: 100% 100%;
+        height: 44px;
+        width: 100%;
+    }
+    .beans img {
+        position: absolute;
+        top: -6px;
+        left: -15px;
+        height: 60px;
+        object-fit: contain;
+    }
+    .beans.d-flex {
+        text-align: center;
+        justify-content: center;
+        padding-left: 30px;
+    }
+    .count.text-white {
+        width: 109px;
+        text-align: center;
+        padding-left: 0px !important;
+    }
+    .big_bean {
+        width: 233px;
+        padding: 10px;
+        height: 295px;
+    }
+    .player {
+        background-size: 100% 54px;
+        padding: 16px;
+        height: 57px;
+    }
+    .media_number h3 {
+        font-size: 40px !important;
+    }
+    .beans_text {
+        margin-top: 7px;
+    }
+    .sec_screen_bg {
+        height: 100%;
+        position: relative;
+        top: -2px !important;
+        width: 230px;
+        margin: 0 auto;
+    }
+    .mob_btn {
+        background-size: 128px 40px !important;
+    }
+}
+
+@media only screen and (max-width: 360px) {
+   
+    .start-card-wrapper-big.bg_player {
+        margin-top: 0px;
+    }
+    .close.cong_close {
+        top: -17px;
+    }
+    .play_name.text-center.space_bottom {
+        width: 250px;
+        margin: 0 auto;
+    }
+   
+   
+    .start-card-wrapper.popup_height.levae_game_bg {
+        padding: 113px 25px !important;
+    }
+    
+    .yes_no_bg {
+        padding: 99px 27px !important;
+    }
+    .close.delete_close.yes_no_btn {
+        right: -22px !important;
+    }
+    .close.delete_close {
+        right: -17px !important;
+    }
+    .gift {
+        top: 29px;
+    }
+    .close {
+        right: 27px;
+        top: -25px;
+    }
+    .done_icon:hover {
+        cursor: pointer !important;
+    }
+    .draw_text {
+        margin-bottom: 10px;
+    }
+    .player-msg-text-box.mob_box h2 {
+        font-size: 32px;
+    }
+    .popup_height.mob_box_pad {
+        padding: 45px 0;
+    }
+    .done_icon {
+        margin: 0 5px;
+    }
+    .text_explain {
+        padding: 15px;
+        height: 220px !important;
+    }
+    .back_img {
+        background-size: 100% 397px !important;
+        padding: 40px 0px;
+    }
+    .check {
+        position: relative;
+        left: 3px !important;
+    }
+    .main_number {
+        padding: 7px 0px 4px 0;
+    }
+    .main_number {
+        padding: 0;
+        width: 200px;
+        background-size: 50px;
+        height: 58px;
+        margin: 0 auto;
+    }
+    .big_bean {
+        width: 235px;
+        padding: 10px;
+        height: 297px;
+    }
+    .back_img {
+        padding: 50px 0px;
+    }
+    .sec_screen_bg {
+        height: 304px !important;
+    }
+    .close.continie_btn {
+        right: -20px !important;
+    }
+    .start-card-wrapper.popup_height.playing_bg {
+        padding: 80px 0px;
+    }
+}
+
+@media only screen and (min-width: 320px) and (max-width: 375px) {
+    .start-card-wrapper-big.bg_player {
+        margin-top: 0px;
+    }
+    
+    .start-card-wrapper-big.benas_name_bg.bensa_pad {
+        min-height: 650px !important;
+    }
+    .start-card-wrapper.popup_height.levae_game_bg {
+        padding: 0px !important;
+    }
+    .draw_text {
+        margin-bottom: 0;
+    }
+    .benas_name_bg .besns_point h4 {
+        font-size: 14px;
+    }
+    
+    .beans img {
+        top: -12px;
+        height: 74px;
+        width: 50px;
+    }
+ 
+    .big_bean {
+        width: 233px;
+        padding: 10px;
+        height: 289px;
+    }
+
+    .main_number {
+        padding: 6px 0px 6px 0;
+    }
+
+    .close.intro_btn img {
+        width: 40px;
+        margin-top: 8px !important;
+    }
+   
+    .name_bg h3 {
+        font-size: 14px;
+    }
+  
+    .start-card-wrapper.popup_height.playing_bg {
+        padding: 76px 0;
+    }
+    .close.intro_btn {
+        right: -14px !important;
+        top: -16px;
+    }
+    .close.delete_close {
+        right: -22px !important;
+        top: -20px;
+    }
+    .close.continie_btn {
+        right: -3px !important;
+        top: -26px;
+    }
+   
+    .yes_no_bg {
+        padding: 100px 0px !important;
+    }
+    .close.delete_close.yes_no_btn {
+        right: -17px !important;
+        top: -16px;
+    }
+    .popup_height.mob_box_pad {
+        padding: 55px 0;
+    }
+    .done_icon {
+        margin: 0 10px;
+    }
+    .sec_screen_bg {
+        height: 100%;
+        position: relative;
+        top: -11px;
+        width: 230px;
+    }
+    .mob_btn {
+        background: url(../img/mob_btn.png);
+        background-repeat: no-repeat;
+        background-size: 143px 40px;
+        text-align: center;
+        width: 207px !important;
+        position: absolute;
+        height: 57px;
+        top: 6px;
+    }
+   
+    .check {
+        margin-left: 0px !important;
+        height: 30px;
+    }
+    .owl-prev span {
+        top: -60px !important;
+        left: -23px !important;
+        font-size: 100px !important;
+    }
+    .owl-next span {
+        top: -60px !important;
+        right: -23px !important;
+        font-size: 100px !important;
+    }
+
+    .side_in {
+        top: 0px;
+    }
+    
+    .player h3 {
+        font-size: 14px;
+    }
+    .player span {
+        font-size: 14px;
+    }
+    .media_number h3 {
+        font-size: 43px !important;
+    }
+    .media_number {
+        width: 84px;
+        height: 84px;
+        background-size: 80px 80px;
+    }
+    .beans_text {
+        padding-left: 0px;
+        font-size: 16px;
+    }
+    .back_img {
+        background-size: 100% 457px;
+        padding: 40px 0;
+    }
+    .player {
+        background-size: 100% 100%;
+        margin: 0;
+    }
+    .mob_btn_side {
+        background-size: 54px 54px;
+        height: 54px;
+        width: 55px;
+    }
+    .check {
+        max-width: 90% !important;
+        width: 140px !important;
+    }
+    .mob_btn {
+        background-size: 138px 50px;
+        width: 217px;
+        position: absolute;
+        height: 72px;
+        top: 6px;
+    }
+
+    
+   
+    .text-white.text-center {
+        font-size: 27px;
+        padding-top: 11px;
+    }
+    .text_explain {
+        padding: 9px;
+        height: 210px;
+    }
+    .back_img {
+        background-size: 100% 100%;
+        padding: 42px 0;
+    }
+    .done_icon:hover {
+        cursor: pointer;
+    }
+    .close {
+        right: 19px !important;
+    }
+    .inner_background.big_bean {
+        top: -16px;
+    }
+}
+
+@media only screen and (min-width: 320px) and (max-width: 767px) {
+    .player-msg-text-box h2 {
+        font-size: 18px;
+    }
+    .start-wrapper.player-list {
+        height: inherit !important;
+    }
+    .start-card-wrapper-big.bg_player {
+        margin-top: 0px;
+    }
+
+    .text-white.player_name {
+        position: relative;
+        top: 9px;
+        font-size: 18px;
+        left: -15px;
+        text-transform: uppercase;
+    }
+
+    .mob_chater img {
+        width: 150px;
+        margin-bottom: 20px;
+    }
+    .name_bg {
+        margin-bottom: 0;
+    } 
+    .control_all {
+        margin-bottom: 8px;
+    }
+    .home_soical img {
+        width: 45px;
+    }
+    .count.text-white {
+        margin-top: -3px;
+        font-size: 44px;
+    }
+    .player-msg-text-box h2 {
+        line-height: 28px;
+        font-size: 24px;
+    }
+    .draw_text {
+        font-size: 16px;
+        margin-bottom: 10px;
+    }
+    .start-card-wrapper.popup_height.yes_no_bg.won_bg {
+        max-height: 400px !important;
+    }
+  
+    .done_icon {
+        background-size: 76px 76px;
+    }
+    .player-msg-text-box h2 {
+        font-size: 24px;
+    }
+    .player_text.btn_down_ab {
+	    bottom: 63px;
+    }
+    .start-card-wrapper-big.back_set {
+        padding: 67px 28px;
+    }
+    .player_text.btn_down_ab {
+        bottom: 46px;
+    }
+    .benas_name_bg {
+        padding: 58px 40px 46px 40px !important;
+    }
+    .start-card-wrapper-big.benas_name_bg.bensa_pad {
+        width: auto;
+        min-height: inherit !important;
+    }
+    .span_text {
+        font-size: 15px;
+    }
+    .play_name.text-center.space_bottom {
+        font-size: 16px;
+        padding: 10px 0 !important;
+    }
+    .popup_bg {
+        padding-bottom: 95px;
+        top:30px;
+    }
+    .player {
+        padding: 16px 0px;
+    }
+    .text-red {
+        position: relative;
+        top: 6px;
+        left: -22px;
+    }
+    .count.text-white {
+        padding-left: 38px;
+    }
+    .beans img {
+        top: -10px;
+        height: 60px;
+        width: 50px;
+    }
+    .side_in {
+        width: 140px;
+        background-size: 140px 48px;
+        height: 48px;
+    }
+    .next-btn-space {
+        margin-top: 10px;
+    }
+    .intro_text {
+        text-align: center !important;
+    }
+    .count_list {
+        padding: 83px 0px 0px 0px;
+    }
+    .aside img {
+        width: 80px;
+    }
+    .ACTION {
+        font-size: 14px;
+    }
+    .sec_text_intro {
+        font-size: 12px;
+        text-align: center;
+    }
+    .count_list li {
+        font-size: 12px;
+    }
+    .d-flex.intro_pd {
+        padding: 2px 22px;
+        display: block !important;
+        text-align: center;
+    }
+    .aside.pl-2 {
+        padding-left: 0 !important;
+    }
+    .sec_screen_bg {
+        height: 100%;
+        width: 225px;
+        border-radius: 10px;
+        margin-bottom: 0;
+    }
+    .sec_screen {
+        width: auto;
+     }
+    .inner_background {
+        height: 295px;
+        width: 233px !important;
+        padding: 10px 15px !important;
+    }
+    .owl-theme .owl-nav {
+        margin-top: 0px;
+    }
+    .check {
+        margin-left: 40px;
+        height: 30px;
+    }
+    .owl-prev span {
+        top: -82px;
+        left: 1px;
+        font-size: 134px;
+    }
+    .owl-next span {
+        font-size: 134px;
+        right: 1px;
+        top: -82px;
+    }
+    .text-white.text-center {
+        font-size: 20px;
+        padding-top: 8px;
+        left: -20px;
+        position: relative;
+    }
+    .mob_btn_side {
+        background-size: 40px 40px;
+        height: 41px;
+        width: 80px;
+        position: relative;
+        top: 4px;
+    }
+    .text-white.player_name {
+        position: relative;
+        top: 9px;
+        font-size: 15px;
+        left: -10px;
+        width: 77px;
+    }
+
+    .mob_btn {
+        background: url(../img/mob_btn.png);
+        background-repeat: no-repeat;
+        background-size: 136px 40px;
+        text-align: center;
+        width: 190px !important;
+        position: absolute;
+        height: 36px;
+        top: 6px;
+    }
+
+    .slider {
+        padding: 10px 20px 0PX 20PX;
+    }
+    .char-wrappers ul li {
+        margin: 0px 15px;
+    }
+    .char-wrappers ul li img {
+        height: 100px;
+    }
+    .check {
+        height: 30px;
+        position: relative;
+        left: 10px;
+    }
+    .done_icon:hover {
+        cursor: pointer;
+    }
+    .gift {
+        top: 20px;
+    }
+    .back_img {
+        padding: 55px 0;
+    }
+
+    .name_bg.winner_btn{
+        margin-bottom: 0px;
+    }
+    .name_bg.lose_btn{
+        margin-bottom: 0px;
+    }
+}
+
+@media only screen and (min-width: 250px) and (max-width: 550px) {
+    .char-wrappers.char-single-right.single_c.hide_c img {
+        display: none !important;
+    }
+    .char-wrappers {
+        margin-top: 0px;
+    }
+    .char-wrappers.char-single-right.single_c {
+        display: none;
+    }
+    .start-card-wrapper-big.bg_player {
+        padding: 68px 0px;
+        margin-top: 10px !important;
+    }
+    .start-card-wrapper.bg_player {
+        width: 100%;
+        background: url("../img/card-md.png");
+        height: 550px;
+        max-height: 550px;
+        background-size: cover;
+        background-repeat: no-repeat;
+        margin: 0 auto;
+        padding: 80px;
+        position: relative;
+        margin-top: 20px;
+        width: 100%;
+        z-index: 999;
+        background-size: 100% 100%;
+    }
+    .media_bg {
+        width: 100%;
+        margin-top: -20px !important;
+        background-size: 100% 100%;
+        position: relative;
+        top: 48px;
+    }
+    .start-card-wrapper-big.back_set {
+        width: 100%;
+    }
+    .start-wrapper.top_space {
+        align-items: normal;
+    }
+    .won_bg{
+        max-height: 100%;
+    }
+    .hanging-wooden img {
+        max-height: 250px;
+    }
+    
+    
+    .start-card-wrapper.roll {
+        padding: 52px 30px;
+    }
+    .start-card-wrapper ul li button {
+        background-size: 100% 100%;
+        width: 200px;
+    }
+    .start-card-wrapper ul li {
+        margin-bottom: 20px;
+    }
+    .start-card-wrapper ul {
+        margin-top: 10px;
+    }
+    .char-chat-bubble {
+        display: none;
+    }
+    .char-wrappers ul li img {
+        height: 130px;
+    }
+    .start-wrapper {
+        height: 100%;
+    }
+    
+    .login-form form {
+        width: 235px;
+        margin: 0 auto;
+    }
+    .login-form form {
+        width: 235px !important;
+        margin: 0 auto;
+    }
+   
+    .btn-horizontal-large {
+        background-size: 230px 54px;
+        width: 230px;
+        height: 54px;
+    }
+  
+
+    .name-plate-card {
+        top: -25px;
+        height: 85px;
+        width: 260px;
+    }
+    .red-card-close-icon img {
+        height: 35px;
+    }
+    .red-card-close-icon {
+        position: absolute;
+        right: -5px;
+        top: 8px;
+    }
+    .name-plate-card {
+        top: -35px;
+        height: 85px;
+        width: 260px;
+        left: 0;
+    }
+    .name-plate-card.lets-play-plate.intro-plate {
+        top: -6px !important;
+    }
+   
+    .inner_background {
+        height: 390px;
+        width: 263px;
+        padding: 12px 12px;
+    }
+    .home_soical a {
+        padding-right: 20px;
+    }
+    
+    .sec_screen span {
+        font-size: 14px;
+    }
+    .meida_pd {
+        padding: 0px 0;
+        position: relative;
+    }
+    .done_icon:hover {
+        cursor: pointer;
+    }
+    .start-card-wrapper-big {
+        padding: 67px 40px;
+    }
+    .player h3 {
+        font-size: 15px;
+    }
+   
+}
+
+@media only screen and (max-width: 350px) {
+    .login-form {   
+        margin-top: -55px;
+    } 
+}
+
+@media only screen and (max-width: 600px) {
+
+    .char-chat-bubble-right {
+        right: -202px;
+        top: -65px;
+        height: 93px;
+        width: 214px;
+    }
+
+    .char-chat-bubble-left {
+        left: -186px;
+        top: -15px;
+        height: 96px;
+        width: 180px;
+    }
+
+}
+
+
+@media only screen and (max-width: 400px) {
+
+    .char-wrappers {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 414px) {
+   
+
+    .close.intro_btn img {
+        width: 45px;
+    }
+    .besns_point {
+        top: 0px;
+        position: relative;
+    }
+    .media_number {
+        width: 60px;
+        background-size: 60px;
+        height: 60px;
+    }
+    .start-card-wrapper.popup_height.playing_bg {
+        padding: 100px 0;
+    }
+    .close.continie_btn {
+        right: -17px;
+    }
+    .close.delete_close {
+        right: -16px !important;
+    }
+    .close.cong_close {
+        right: -6px !important;
+    }
+    .owl-prev span {
+        left: -19px;
+        top: -86px;
+    }
+    .owl-next span {
+        right: -19px;
+        top: -86px;
+    }
+    .check {
+        margin-left: 9px;
+    }
+    .start-card-wrapper.popup_height {
+        padding: 60px 0;
+    }
+    .done_icon {
+        margin: 0 10px;
+    }
+    .done_icon:hover {
+        cursor: pointer;
+    }
+    .yes_no_bg {
+        padding: 100px 0px !important;
+    }
+    .close.delete_close.yes_no_btn {
+        right: -23px !important;
+        top: -25px;
+    }
+    .close.delete_close.big_btn {
+        right: -17px !important;
+    }
+   
+    .player {
+        margin-bottom: 0px;
+    }
+    .main_number {
+        width: 260px;
+        background-size: 50px;
+        height: 58px;
+        margin: 5px auto;
+        padding: 0;
+    }
+    .media_number h3 {
+        font-size: 49px;
+    }
+    .media_number {
+        width: 60px;
+        background-size: 60px;
+        height: 60px;
+    }
+    .beans_text {
+        font-size: 20px;
+    }
+    .big_bean {
+        height: 100%;
+    }
+    .player {
+        background-size: 100% 54px;
+        text-align: center;
+        background-position: center;
+    }
+    .close.intro_btn {
+        right: -10px;
+        top: 2px;
+    }
+   
+    .btn-next-pink.yes_no {
+        margin: 0 9px;
+    }
+ 
+}
+@media only screen and (max-width: 476px) {
+
+    .char-wrappers {
+        margin-top: 220px;
+    }
+}
+
+
+@media only screen and (max-width: 575px) {
+    .container.custom_can {
+        width: auto;
+    }
+    .card-close-icon {
+        top: -8px;
+    }
+}
+
+@media only screen and (max-width: 390px) {
+
+    .char-wrappers {
+        margin-top: 170px !important;
+    }
+
+}
+@media only screen and (max-width: 375px) {
+    .close.cong_close {
+        top:0px;
+    }
+   
+}
+
+
+@media only screen and (min-width: 320px) and (max-width: 345px) {
+    .close.cong_close {
+        top: 10px;
+        right: -20px !important;
+    }
+    .start-card-wrapper.popup_height.continu img {
+        margin-top: 30px;
+    }
+    .char-wrappers ul li img {
+        height: 100px;
+    }
+    .close.delete_close.levae_game_btn {
+        top: -8px !important;
+    }
+    .close.delete_close.levae_game_btn img {
+        max-width: 50px;
+    }
+ 
+}
+
+
+
+@media only screen and (min-width: 320px) and (max-width: 392px) {
+    .mob_next a {
+        margin: 0 5px;
+    }
+    .char-wrappers.char-single-right {
+        display: none;
+    }
+    .big_bean {
+        width: 235px;
+        padding: 10px;
+        height: 100%;
+    }
+    .media_number {
+        width: 50px;
+        height: 50px;
+        background-size: 50px 50px;
+    }
+    .beans_text {
+        padding-left: 0px;
+        font-size: 16px;
+        margin-left: 6px;
+        margin-top: 7px;
+    }
+    .inner_background {
+        position: relative;
+        top: -10px;
+        height: 100% !important;
+    }
+    .start-card-wrapper.popup_height {
+        padding: 43px 0;
+    }
+    .close {
+        right: 7px;
+    }
+    .close.delete_close {
+        right: -22px !important;
+        top: -24px;
+    }
+    .close.delete_close.big_btn {
+        right: -13px !important;
+        top: -25px;
+    }
+    .close.delete_close.yes_no_btn {
+        right: -18px !important;
+        top: -25px;
+    }
+    .btn-next-pink.yes_no {
+        background-size: 90px 40px;
+        width: 90px;
+        height: 42px;
+    }
+}
+
+
+@media only screen and (min-width: 320px) and (max-width: 392px) {
+
+    .login-form {
+        margin-top: 0;
+    }
+}
